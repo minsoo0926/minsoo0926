@@ -1,6 +1,4 @@
 ## Minsoo Ha
-<br>
-
 ### $ whoami
 - UG @ POSTECH Mathematics
 - Undergraduate Researcher @ POSTECH ML Lab.
