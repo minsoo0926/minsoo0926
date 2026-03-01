@@ -1,4 +1,17 @@
-## Hi there 👋
+## Minsoo Ha
+<br>
+
+### $ whoami
+- UG @ POSTECH Mathematics
+- Undergraduate Researcher @ POSTECH ML Lab.
+- ex) Fundamental Research Engineer Intern @ LinqAlpha
+- Interested in...
+  - Neuro-symbolic AI
+  - LLM reasoning
+  - Reinforcement Learning
+  - Software Engineering
+
+### [Visit my blog!](https://minsooha.com)
 
 <!--
 **minsoo0926/minsoo0926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
