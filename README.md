@@ -1,12 +1,12 @@
 ## Minsoo Ha
 ### $ whoami
 - UG @ POSTECH Mathematics
-- Undergraduate Researcher @ POSTECH ML Lab.
+- Undergraduate Researcher @ POSTECH IML Lab.
 - ex) Fundamental Research Engineer Intern @ LinqAlpha
 - Interested in...
   - Neuro-symbolic AI
+  - Machine Learning Theory
   - LLM reasoning
-  - Reinforcement Learning
   - Software Engineering
 
 ### [Visit my blog!](https://minsooha.com)
