@@ -9,7 +9,9 @@
   - LLM reasoning
   - Software Engineering
 
-### [Visit my blog!](https://minsooha.com)
+### Visit my blog!
+- [Blog](https://minsoo0926.github.io)
+- [Personal](https://minsooha.com)
 
 <!--
 **minsoo0926/minsoo0926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
